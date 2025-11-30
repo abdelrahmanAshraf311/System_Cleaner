@@ -148,10 +148,21 @@ This ensures continuous observability and audit logging of your maintenance jobs
 ---
 
 ### 📷 Example Screenshots to Include
-- Script Execution Result
-- Symbolic Link Verification
-- Cron Command and Entry
-- Telegram Notification Message Example
+### Script Execution Result
+<img src="screens/script_run.png" alt="Script Run" width="600"/>
+
+### Symbolic Link Verification
+<img src="screens/symbolic_link.png" alt="Symbolic Link" width="700"/>
+
+### Cron Command and Entry
+<div style="display: flex; gap: 20px; flex-wrap: nowrap;">
+  <img src="screens/cron_command.png" alt="Cron Command" width="45%"/>
+  <img src="screens/cron_setting.png" alt="Cron Setting" width="50%"/>
+</div>
+
+### Telegram Notification Message Example
+<img src="screens/Telegram_cron_notify.jpg" alt="Telegram Notification" width="250"/>
+
 
 ---
 
